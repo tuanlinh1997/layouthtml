@@ -43,7 +43,7 @@ header, section, footer, aside, nav, main, article, figure {
   .header__content nav ul li a{
     text-decoration: none;
     color: white;
-    border-bottom: 2px solid white;
+    
     margin: 0 20px;
     
   }
@@ -51,6 +51,7 @@ header, section, footer, aside, nav, main, article, figure {
       color: #00cdce;
       border-bottom: 0;
       transition: all .5s;
+	  border-bottom: 2px solid white;
       
   }
   .header__content p{
